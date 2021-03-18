@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ríad Mattos Nassiffe</title>
-    <link>riadnassiffe.github.io/publication/</link>
-      <atom:link href="riadnassiffe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://riadnassiffe.github.io/publication/</link>
+      <atom:link href="http://riadnassiffe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/riadnassiffe.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>riadnassiffe.github.io/publication/</link>
+      <link>http://riadnassiffe.github.io/publication/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>riadnassiffe.github.io/publication/example/</link>
+      <link>http://riadnassiffe.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>riadnassiffe.github.io/publication/example/</guid>
+      <guid>http://riadnassiffe.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
