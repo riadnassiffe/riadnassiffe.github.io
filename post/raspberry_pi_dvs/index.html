@@ -291,16 +291,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Ríad Mattos Nassiffe" />
   <meta property="og:url" content="http://riadnassiffe.github.io/post/raspberry_pi_dvs/" />
   <meta property="og:title" content="Testing Raspberry Pi DVS | Ríad Mattos Nassiffe" />
-  <meta property="og:description" content="--" /><meta property="og:image" content="http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="--" /><meta property="og:image" content="http://riadnassiffe.github.io/post/raspberry_pi_dvs/featured.png" />
+    <meta property="twitter:image" content="http://riadnassiffe.github.io/post/raspberry_pi_dvs/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -335,6 +334,10 @@
     "@id": "http://riadnassiffe.github.io/post/raspberry_pi_dvs/"
   },
   "headline": "Testing Raspberry Pi DVS",
+  
+  "image": [
+    "http://riadnassiffe.github.io/post/raspberry_pi_dvs/featured.png"
+  ],
   
   "datePublished": "2021-03-18T17:19:25-03:00",
   "dateModified": "2021-03-18T17:19:25-03:00",
@@ -779,6 +782,16 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span >
+      Ríad Mattos Nassiffe</span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -952,7 +965,7 @@
   </div></figure>
 <p>The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.
 Power Consumption According to Frequency and Voltage Scaling</p>
-<p>In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $$ \alpha f^3$$</p>
+<p>In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $.</p>
 
 
 
@@ -967,14 +980,14 @@ Power Consumption According to Frequency and Voltage Scaling</p>
 
 
 
-<figure  id="figure-unnamed">
+<figure  id="figure-featured">
   <div class="d-flex justify-content-center">
     <div class="w-100" >
         <img alt="" srcset="
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_71f048ccb9582a0fa69bfcb38e769d81.png 400w,
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_d2f3530e83fa534b03031645cb43efee.png 760w,
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_lanczos_2.png 1200w"
-               src="/post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_71f048ccb9582a0fa69bfcb38e769d81.png"
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1260209158adec623fbc92c7e5c1b020.png 400w,
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_cbbb96d8dde3fe1d03386a1ebdecf5cd.png 760w,
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_lanczos_2.png 1200w"
+               src="/post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1260209158adec623fbc92c7e5c1b020.png"
                width="625"
                height="465"
                loading="lazy" data-zoomable /></div>
@@ -1058,6 +1071,7 @@ Power Consumption According to Frequency and Voltage Scaling</p>
 
   
   
+    
 
 
 
@@ -1171,6 +1185,7 @@ Power Consumption According to Frequency and Voltage Scaling</p>
   </div>
 
 
+  
 
 
 

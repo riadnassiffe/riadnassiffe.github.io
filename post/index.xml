@@ -144,7 +144,7 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.
 Power Consumption According to Frequency and Voltage Scaling&lt;/p&gt;
-&lt;p&gt;In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $$ \alpha f^3$$&lt;/p&gt;
+&lt;p&gt;In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $.&lt;/p&gt;
 
 
 
@@ -159,14 +159,14 @@ Power Consumption According to Frequency and Voltage Scaling&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-unnamed&#34;&gt;
+&lt;figure  id=&#34;figure-featured&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;&#34; srcset=&#34;
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_71f048ccb9582a0fa69bfcb38e769d81.png 400w,
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_d2f3530e83fa534b03031645cb43efee.png 760w,
-               /post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;http://riadnassiffe.github.io/post/raspberry_pi_dvs/unnamed_hu3e419a09cabc5f927a443babdc4ccc08_31283_71f048ccb9582a0fa69bfcb38e769d81.png&#34;
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1260209158adec623fbc92c7e5c1b020.png 400w,
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_cbbb96d8dde3fe1d03386a1ebdecf5cd.png 760w,
+               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;http://riadnassiffe.github.io/post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1260209158adec623fbc92c7e5c1b020.png&#34;
                width=&#34;625&#34;
                height=&#34;465&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
