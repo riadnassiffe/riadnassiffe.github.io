@@ -33,10 +33,10 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="This thesis proposes a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem for which efficients algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/" />
+  <link rel="alternate" hreflang="en-us" href="http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798" />
 
   
 
@@ -280,7 +280,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/" />
+  <link rel="canonical" href="http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798" />
 
   
   
@@ -297,18 +297,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Ríad Mattos Nassiffe" />
-  <meta property="og:url" content="http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/" />
-  <meta property="og:title" content="Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency | Ríad Mattos Nassiffe" />
-  <meta property="og:description" content="" /><meta property="og:image" content="http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798" />
+  <meta property="og:title" content="Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura | Ríad Mattos Nassiffe" />
+  <meta property="og:description" content="This thesis proposes a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem for which efficients algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost." /><meta property="og:image" content="http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-03-19T12:39:11&#43;00:00"
+        content="2021-03-19T12:39:09&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-03-19T09:39:11-03:00">
+    <meta property="article:modified_time" content="2021-03-19T09:39:09-03:00">
   
 
   
@@ -330,16 +330,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/"
+    "@id": "http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798"
   },
-  "headline": "Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency",
+  "headline": "Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura",
   
-  "datePublished": "2021-03-19T12:39:11Z",
-  "dateModified": "2021-03-19T09:39:11-03:00",
+  "datePublished": "2021-03-19T12:39:09Z",
+  "dateModified": "2021-03-19T09:39:09-03:00",
   
   "author": {
     "@type": "Person",
-    "name": "Eduardo Camponogara"
+    "name": "Rı́ad Mattos Nassiffe"
   },
   
   "publisher": {
@@ -350,7 +350,7 @@
       "url": "http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": ""
+  "description": "This thesis proposes a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem for which efficients algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost."
 }
 </script>
 
@@ -366,11 +366,11 @@
 
 
 
-  <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency | Ríad Mattos Nassiffe</title>
+  <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura | Ríad Mattos Nassiffe</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f28080f1f32b93d909d507f5a68a302a" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1cc35b39a9f9961d0554cbf13eaaee45" >
 
   
   
@@ -737,7 +737,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</h1>
+  <h1>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</h1>
 
   
 
@@ -755,10 +755,8 @@
     
 
   <span >
-      Eduardo Camponogara</span>, <span >
-      George Lima</span>, <span >
-      Daniel Mossé</span>, <span >
-      Rı́ad Nassiffe</span>
+      Rı́ad Mattos Nassiffe</span>, <span >
+       others</span>
   </div>
   
   
@@ -769,7 +767,7 @@
     
       
     
-    January 2013
+    January 2015
   </span>
   
 
@@ -812,7 +810,7 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/camponogara-2013-optimizing/cite.bib">
+        data-filename="/repositorio.ufsc.br/xmlui/handle/123456789/cite.bib">
   Cite
 </a>
 
@@ -828,10 +826,6 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/http://dx.doi.org/10.1504/IJES.2016.10001303" target="_blank" rel="noopener">
-  DOI
-</a>
-
 
 
 </div>
@@ -845,6 +839,9 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This thesis proposes a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem for which efficients algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost.</p>
+    
 
     
     
@@ -854,8 +851,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#7">
+              Thesis
             </a>
           </div>
         </div>
@@ -866,22 +863,11 @@
     
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>2013 III Brazilian Symposium on Computing Systems Engineering</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p><a href="https://repositorio.ufsc.br/xmlui/handle/123456789/158798" target="_blank" rel="noopener">Download</a></p>
+</div>
 
     
 
@@ -916,7 +902,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Optimizing%20QoS%20in%20Adaptive%20Real-Time%20Systems%20with%20Energy%20Constraint%20Varying%20CPU%20Frequency&amp;body=http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Abordagens%20para%20reconfigura%c3%a7%c3%a3o%20de%20sistemas%20de%20tempo%20real%20com%20QoS%20e%20restri%c3%a7%c3%b5es%20de%20energia%20e%20temperatura&amp;body=http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -929,7 +915,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/&amp;title=Optimizing%20QoS%20in%20Adaptive%20Real-Time%20Systems%20with%20Energy%20Constraint%20Varying%20CPU%20Frequency" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798&amp;title=Abordagens%20para%20reconfigura%c3%a7%c3%a3o%20de%20sistemas%20de%20tempo%20real%20com%20QoS%20e%20restri%c3%a7%c3%b5es%20de%20energia%20e%20temperatura" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -948,18 +934,6 @@
 
 
   
-  
-    
-
-
-
-
-  
-    
-
-
-
-
   
     
 

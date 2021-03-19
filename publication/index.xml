@@ -45,14 +45,6 @@
     </item>
     
     <item>
-      <title>INTRODUÇÃO À FERRAMENTA DE TIPOGRAFIA DE TEXTO LATEX</title>
-      <link>http://riadnassiffe.github.io/publication/netto-2018-introduccao/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/netto-2018-introduccao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title>
       <link>http://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -77,7 +69,7 @@
     </item>
     
     <item>
-      <title>Optimising QoS in adaptive real-time systems with energy constraint varying CPU frequency</title>
+      <title>Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</title>
       <link>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
@@ -86,14 +78,15 @@
     
     <item>
       <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link>
+      <link>http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid>
-      <description></description>
+      <guid>http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://repositorio.ufsc.br/xmlui/handle/123456789/158798&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A model considering qos for real-time systems with energy and temperature constraints</title>
+      <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
       <link>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>

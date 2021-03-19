@@ -5,12 +5,21 @@
     <link>http://riadnassiffe.github.io/publication-type/7/</link>
       <atom:link href="http://riadnassiffe.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
       <title>7</title>
       <link>http://riadnassiffe.github.io/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
+      <link>http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/repositorio.ufsc.br/xmlui/handle/123456789/158798</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://repositorio.ufsc.br/xmlui/handle/123456789/158798&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
