@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/publication-type/7/</link>
+      <atom:link href="http://riadnassiffe.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>http://riadnassiffe.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

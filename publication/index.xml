@@ -5,7 +5,7 @@
     <link>http://riadnassiffe.github.io/publication/</link>
       <atom:link href="http://riadnassiffe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 18 Mar 2021 21:55:44 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,30 +13,139 @@
     </image>
     
     <item>
-      <title>Sbesc2011</title>
-      <link>http://riadnassiffe.github.io/publication/sbesc2011/</link>
-      <pubDate>Thu, 18 Mar 2021 21:55:44 -0300</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/sbesc2011/</guid>
+      <title>Produção de protetores faciais para profissionais de saúde contra o coronavı́rus</title>
+      <link>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>http://riadnassiffe.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title>
+      <link>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA</title>
+      <link>http://riadnassiffe.github.io/publication/netto-2018-entrust/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/netto-2018-entrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTRODUÇÃO À FERRAMENTA DE TIPOGRAFIA DE TEXTO LATEX</title>
+      <link>http://riadnassiffe.github.io/publication/netto-2018-introduccao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/netto-2018-introduccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLOUD OF BOOKS</title>
+      <link>http://riadnassiffe.github.io/publication/da-2017-cloud/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/da-2017-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
+      <link>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising QoS in adaptive real-time systems with energy constraint varying CPU frequency</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model considering qos for real-time systems with energy and temperature constraints</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
+      <link>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in energy-aware real-time systems</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing quality of service in real-time systems under energy constraints</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2011-model/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2011-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos</title>
+      <link>http://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</link>
+      <pubDate>Wed, 19 Mar 2008 12:39:08 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</guid>
+      <description></description>
     </item>
     
   </channel>
