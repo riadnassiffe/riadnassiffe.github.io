@@ -615,44 +615,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -855,7 +818,7 @@
 <figure  id="figure-dvs_emulation_example3">
   <div class="d-flex justify-content-center">
     <div class="w-100" >
-        <img alt="" srcset="
+        <img alt="ARM implementation of continuous DVS, Author [1]." srcset="
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_626a0344b887c21ed61c2b5c836cf8b2.png 400w,
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_f17b308785eaad2a9116f8de118b6d54.png 760w,
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_1200x1200_fit_lanczos_2.png 1200w"
@@ -863,14 +826,16 @@
                width="760"
                height="238"
                loading="lazy" data-zoomable /></div>
-  </div></figure>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      ARM implementation of continuous DVS, Author [1].
+    </figcaption></figure>
 <p>A common way to save energy with computers is exploring the CPU frequency switch capability. The Raspberry Pi uses an  ARM1176JZF-S processor and according to the ARM on-line documentation this CPU can be run in any frequency under the maximal one, supported by the processor. To be able to performance any frequency the ARM11 architecture emulate a continuous DVS(Dynamic Voltage Scaling), in a discrete processor,  by holding the voltage at the maximum level and then switch the system clock between the maximum frequency and off. In order to apply this the IEM software - it is a software that runs on ARM processor to classify the types of activity and to analyze their processor utilization patterns for global prediction about the future performance required by the system - defines frames that are directly related to the performance level. In Figure 1 the system performance requested in the first frame is 50%, so the CPU work at maximum frequency for half of the frame, and then it is turned off for the rest of the frame, in the second frame a performance of 25% of the CPU is requested, and then 75% in the last frame.</p>
 <h2 id="testing-continuous-dvs">Testing Continuous DVS</h2>
 <p>To test the Raspberry Pi DVS capability the two experiments were set, the first on consist in verify the effect of different frequencies over and application CPU execution time and the other is about the power consumption, all the tests were done using Arch Linux ARM. To change the frequency the command cpufreq-set was execute, here is an example about how to use this command:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">cpufreq-set -f 0.2 GHz</code></pre></div>
 <p>in this case 0.200 is the desired frequency in GHz and -f tells the new frequency.</p>
 <h2 id="cpu-performance-according-frequency">CPU Performance According Frequency</h2>
-<p>In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:</p>
+<p>In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends on only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:</p>
 <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -954,7 +919,7 @@
 <figure  id="figure-raspberrypifreqtest3">
   <div class="d-flex justify-content-center">
     <div class="w-100" >
-        <img alt="" srcset="
+        <img alt="Shows amount of time spend by the CPU to execute the test program." srcset="
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_065f65e742fbb8e7e65853173ea2d96a.png 400w,
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_c670baa1d4e2ef9f357b0ec740c6c820.png 760w,
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_1200x1200_fit_lanczos_2.png 1200w"
@@ -962,9 +927,11 @@
                width="625"
                height="519"
                loading="lazy" data-zoomable /></div>
-  </div></figure>
-<p>The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.
-Power Consumption According to Frequency and Voltage Scaling</p>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      Shows amount of time spend by the CPU to execute the test program.
+    </figcaption></figure>
+<p>The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.</p>
+<h2 id="power-consumption-according-to-frequency-and-voltage-scaling">Power Consumption According to Frequency and Voltage Scaling</h2>
 <p>In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $.</p>
 
 
@@ -983,7 +950,7 @@ Power Consumption According to Frequency and Voltage Scaling</p>
 <figure  id="figure-featured">
   <div class="d-flex justify-content-center">
     <div class="w-100" >
-        <img alt="" srcset="
+        <img alt="Shows the Raspberry Pi Power consumption according the selected frequency." srcset="
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1260209158adec623fbc92c7e5c1b020.png 400w,
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_cbbb96d8dde3fe1d03386a1ebdecf5cd.png 760w,
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_lanczos_2.png 1200w"
@@ -991,17 +958,19 @@ Power Consumption According to Frequency and Voltage Scaling</p>
                width="625"
                height="465"
                loading="lazy" data-zoomable /></div>
-  </div></figure>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      Shows the Raspberry Pi Power consumption according the selected frequency.
+    </figcaption></figure>
 <p>It is important to notice in between frequencies 0.2GHz-0.6GHz, 0.6GHz-0.8GHz and 0.8GHz-1GHz the power line changes its increasing rate from the previous interval, with the exception of the interval from 0.4GHz to 0.6GHz. This exception is caused because the ARM DVS doesn&rsquo;t need to change the voltage to simulate 0.4GHz and 0.6GHz, and when only the frequency changes the power consumption reduction is proportional to the increase of time need to execute the program.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>As a conclusion of the first experiment it is possible to confirm that the continuous DVS implies in different execution time according to the used frequency. And according to the second experiment it is clear that the power changes according to the frequency, but the frequency modification only result in power save if the voltage changes too.</p>
 <h2 id="references">References</h2>
-<ul>
+<ol>
 <li>ARM - ARM1176JZF Development Chip Technical Reference</li>
 <li>RaspBerry Pi - RPiconfig</li>
 <li>clock_gettime - Man7.org</li>
 <li>Test program code - Github</li>
-</ul>
+</ol>
 
     </div>
 
@@ -1090,7 +1059,7 @@ Power Consumption According to Frequency and Voltage Scaling</p>
 
     <div class="media-body">
       <h5 class="card-title"><a href="http://riadnassiffe.github.io/">Ríad Mattos Nassiffe</a></h5>
-      <h6 class="card-subtitle">Professor Computer Science</h6>
+      <h6 class="card-subtitle">Professor of Computer Science</h6>
       <p class="card-text">My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .</p>
       <ul class="network-icon" aria-hidden="true">
   
