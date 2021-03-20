@@ -26,7 +26,7 @@
   
   
 
-  <meta name="author" content="Ríad Mattos Nassiffe" />
+  <meta name="author" content="Ríad M. Nassiffe" />
 
   
   
@@ -565,17 +565,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/post"><span>Posts</span></a>
         </li>
 
         
@@ -602,17 +595,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/project"><span>Projects</span></a>
         </li>
 
         
@@ -639,17 +625,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -905,7 +884,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p><a href="https://repositorio.ufsc.br/xmlui/handle/123456789/158798" target="_blank" rel="noopener">Download</a></p>
+    <div class="article-style"><p><a href="https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener">Download <em>(Brazilian Portuguese)</em></a></p>
 </div>
 
     
@@ -914,6 +893,12 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/rts-energy-aware-scheduling/">RTS Energy-aware Scheduling</a>
+  
+</div>
 
 
 
@@ -1002,6 +987,23 @@
 
   
   
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/rts_energy-aware_scheduling/">Real Time System Energy-Aware Scheduling</a></li>
+      
+      <li><a href="/publication/camponogara-2013-optimizing/">Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</a></li>
+      
+      <li><a href="/publication/nassiffe-2014-model/">A model considering QoS for real-time systems with energy and temperature constraints</a></li>
+      
+      <li><a href="/publication/nassiffe-2016-optimising/">Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</a></li>
+      
+      <li><a href="/publication/nassiffe-2013-optimizing/">Optimizing QoS in energy-aware real-time systems</a></li>
+      
+    </ul>
+  </div>
+  
 
 
 
@@ -1019,14 +1021,6 @@
 
   
 
-  
-  <p class="powered-by">
-    
-    
-      
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

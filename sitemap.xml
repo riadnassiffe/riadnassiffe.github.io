@@ -2,29 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://riadnassiffe.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://riadnassiffe.github.io/categories/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
   </url><url>
-    <loc>http://riadnassiffe.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://riadnassiffe.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://riadnassiffe.github.io/project/mestrado/</loc>
-    <lastmod>2021-03-19T09:29:34-03:00</lastmod>
+    <loc>http://riadnassiffe.github.io/category/energy-aware-scheduling/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
   </url><url>
     <loc>http://riadnassiffe.github.io/project/</loc>
-    <lastmod>2021-03-19T09:29:34-03:00</lastmod>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/category/rts/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/tag/rts-energy-aware-scheduling/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/tags/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/tag/arduino/</loc>
+    <lastmod>2021-03-19T20:01:33-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/category/arduino/</loc>
+    <lastmod>2021-03-19T20:01:33-03:00</lastmod>
+  </url><url>
+    <loc>http://riadnassiffe.github.io/project/arduino/</loc>
+    <lastmod>2021-03-19T20:01:33-03:00</lastmod>
   </url><url>
     <loc>http://riadnassiffe.github.io/post/</loc>
-    <lastmod>2021-03-18T17:19:25-03:00</lastmod>
+    <lastmod>2021-03-19T14:15:59-06:00</lastmod>
   </url><url>
     <loc>http://riadnassiffe.github.io/post/raspberry_pi_dvs/</loc>
-    <lastmod>2021-03-18T17:19:25-03:00</lastmod>
-  </url><url>
-    <loc>http://riadnassiffe.github.io/terms/</loc>
-    <lastmod>2021-03-18T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-19T14:15:59-06:00</lastmod>
   </url><url>
     <loc>http://riadnassiffe.github.io/publication-type/2/</loc>
     <lastmod>2021-03-19T09:39:11-03:00</lastmod>
@@ -97,8 +112,6 @@
   </url><url>
     <loc>http://riadnassiffe.github.io/admin/</loc>
   </url><url>
-    <loc>http://riadnassiffe.github.io/categories/</loc>
-  </url><url>
-    <loc>http://riadnassiffe.github.io/tags/</loc>
+    <loc>http://riadnassiffe.github.io/event/</loc>
   </url>
 </urlset>
