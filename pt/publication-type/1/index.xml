@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/pt/publication-type/1/</link>
+      <atom:link href="http://riadnassiffe.github.io/pt/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>http://riadnassiffe.github.io/pt/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
+      <link>http://riadnassiffe.github.io/pt/publication/laurindo-2017-smart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/laurindo-2017-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2014-model/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2014-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
+      <link>http://riadnassiffe.github.io/pt/publication/camponogara-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/camponogara-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-model/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programação I | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/pt/category/programacao-i/</link>
+      <atom:link href="http://riadnassiffe.github.io/pt/category/programacao-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programação I</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 01 Apr 2021 16:10:00 -0300</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>Programação I</title>
+      <link>http://riadnassiffe.github.io/pt/category/programacao-i/</link>
+    </image>
+    
+    <item>
+      <title>Programação I</title>
+      <link>http://riadnassiffe.github.io/pt/teachings/programacao_i/</link>
+      <pubDate>Thu, 01 Apr 2021 16:10:00 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/teachings/programacao_i/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Horário:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Turma 201 : Terça-feira 8:00 - 9:30 e Sexta-feira 8:45 - 9:45&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Turma 202 : Terça-feira 9:45 - 11:15 e Sexta-feira 10:30 - 12:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://blumenau.ifc.edu.br/medio-informatica/horarios/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Calendário com horários marcados&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Instrutores:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eder Augusto Penharbel (&lt;a href=&#34;mailto:eder.penharbel@ifc.edu.br&#34;&gt;eder.penharbel@ifc.edu.br&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ríad Mattos Nassiffe (&lt;a href=&#34;mailto:riad.nassiffe@ifc.edu.br&#34;&gt;riad.nassiffe@ifc.edu.br&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Horas de atendimento:&lt;/strong&gt;	a ser definido.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ementa&#34;&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Programação Orientada à Objetos. Fundamentos de uma linguagem de programação orientada a objetos. Tratamento de Exceções. Implementação de software com uma linguagem de programação integrada com banco de dados&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Implementar um sistema dinâmico, utilizando banco de dados e com interação com usuário.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;avaliações&#34;&gt;Avaliações&lt;/h2&gt;
+&lt;p&gt;Cada trimestre terá três avaliações. As avaliações e respectivos pesos serão: (1) entrega de atividades - 20%, (2) Trabalho prático - 30% e (3) prova escrita (no &lt;a href=&#34;https://sig.ifc.edu.br/sigaa/verTelaLogin.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGAA&lt;/a&gt;) - 50%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Média trimestral&lt;/strong&gt; = entrega de atividades * 0,2 + Trabalho prático * 0,3 + prova escrita * 0,5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Média anual&lt;/strong&gt; = (média do primeiro trimestre + média do segundo trimestre + média do terceiro trimestre)/3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;A recuperação paralela ocorrerá por meio do desenvolvimento de um trabalho prático que envolverá todos os conteúdo do trimestre.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;critérios-de-avaliação&#34;&gt;Critérios de Avaliação&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Corretude&lt;/strong&gt; : se o código faz o que foi solicitado, sem conter erros de programação.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentação&lt;/strong&gt; : se existe uma documentação do código e como a solução foi criada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Boas práticas&lt;/strong&gt; : o código deve seguir as boas práticas apontadas em sala de aula, que deverão facilitar a leitura e entendimento dele.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apresentação&lt;/strong&gt; : o código deverá ser apresentado, explicado e mostrado em execução.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

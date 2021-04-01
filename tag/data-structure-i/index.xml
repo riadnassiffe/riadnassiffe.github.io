@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structure I | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/tag/data-structure-i/</link>
+      <atom:link href="http://riadnassiffe.github.io/tag/data-structure-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Structure I</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Fri, 19 Mar 2021 20:10:16 -0300</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Structure I</title>
+      <link>http://riadnassiffe.github.io/tag/data-structure-i/</link>
+    </image>
+    
+    <item>
+      <title>Data Structure I</title>
+      <link>http://riadnassiffe.github.io/teachings/data_structure_i/</link>
+      <pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/teachings/data_structure_i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

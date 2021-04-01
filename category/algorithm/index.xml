@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithm | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/category/algorithm/</link>
+      <atom:link href="http://riadnassiffe.github.io/category/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algorithm</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Fri, 19 Mar 2021 20:10:16 -0300</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>Algorithm</title>
+      <link>http://riadnassiffe.github.io/category/algorithm/</link>
+    </image>
+    
+    <item>
+      <title>Data Structure I</title>
+      <link>http://riadnassiffe.github.io/teachings/data_structure_i/</link>
+      <pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/teachings/data_structure_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming I</title>
+      <link>http://riadnassiffe.github.io/teachings/programming_i/</link>
+      <pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/teachings/programming_i/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Thus either at 11am or 4:30pm, zoom link&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt;	Eder Augusto Penharbel (&lt;a href=&#34;mailto:eder.penharbel@ifc.edu.br&#34;&gt;eder.penharbel@ifc.edu.br&lt;/a&gt;) and Ríad Mattos Nassiffe (&lt;a href=&#34;mailto:riad.nassiffe@ifc.edu.br&#34;&gt;riad.nassiffe@ifc.edu.br&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt;	(or by appointment)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;objectives&#34;&gt;Objectives&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;programming-assignments&#34;&gt;Programming Assignments&lt;/h1&gt;
+&lt;p&gt;The programming assignments are a very important component of the course.&lt;/p&gt;
+&lt;p&gt;The programming assignments will be evaluated on several factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Correctness:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best pratices:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentation :&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

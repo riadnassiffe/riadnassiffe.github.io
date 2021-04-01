@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/pt/</link>
+      <atom:link href="http://riadnassiffe.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ríad Mattos Nassiffe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 01 Apr 2021 16:10:00 -0300</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>Ríad Mattos Nassiffe</title>
+      <link>http://riadnassiffe.github.io/pt/</link>
+    </image>
+    
+    <item>
+      <title>Estrutura de Dados I</title>
+      <link>http://riadnassiffe.github.io/pt/teachings/data_structure_i/</link>
+      <pubDate>Thu, 01 Apr 2021 16:10:00 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/teachings/data_structure_i/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Horário:&lt;/strong&gt; Quarta-feira das 14:00 ás 17:00. &lt;a href=&#34;http://blumenau.ifc.edu.br/bcc/horario-de-aula/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendário com aulas marcadas.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instrutor:&lt;/strong&gt;	Ríad Mattos Nassiffe (&lt;a href=&#34;mailto:riad.nassiffe@ifc.edu.br&#34;&gt;riad.nassiffe@ifc.edu.br&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Horas de atendimento:&lt;/strong&gt;	a definir com a turma ou em horário marcado por e-mail.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ementa&#34;&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Algoritmos para pesquisa e ordenação em memória principal e secundária. Aplicações de listas. Árvores e suas generalizações: árvores binárias, árvores de busca, Aplicações de árvores. Tabelas de Hash.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;avaliações&#34;&gt;Avaliações&lt;/h2&gt;
+&lt;p&gt;A disciplina terá três avaliações, uma teórica e duas práticas. Todas as avaliações serão disponibilizadas no &lt;a href=&#34;https://sig.ifc.edu.br/sigaa/verTelaLogin.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGA&lt;/a&gt;. E a média final será calculada da seguinte forma:&lt;/p&gt;
+&lt;p&gt;Média final = (avaliação escrita + 2 trabalhos práticos)/3&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;critérios-de-avaliação&#34;&gt;Critérios de avaliação&lt;/h2&gt;
+&lt;p&gt;Nas respostas discursivas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clareza&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conteúdo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nas atividades práticas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Corretude&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentação&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estilo&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apresentação&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programação I</title>
+      <link>http://riadnassiffe.github.io/pt/teachings/programacao_i/</link>
+      <pubDate>Thu, 01 Apr 2021 16:10:00 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/teachings/programacao_i/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Horário:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Turma 201 : Terça-feira 8:00 - 9:30 e Sexta-feira 8:45 - 9:45&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Turma 202 : Terça-feira 9:45 - 11:15 e Sexta-feira 10:30 - 12:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://blumenau.ifc.edu.br/medio-informatica/horarios/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Calendário com horários marcados&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Instrutores:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eder Augusto Penharbel (&lt;a href=&#34;mailto:eder.penharbel@ifc.edu.br&#34;&gt;eder.penharbel@ifc.edu.br&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ríad Mattos Nassiffe (&lt;a href=&#34;mailto:riad.nassiffe@ifc.edu.br&#34;&gt;riad.nassiffe@ifc.edu.br&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Horas de atendimento:&lt;/strong&gt;	a ser definido.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ementa&#34;&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Programação Orientada à Objetos. Fundamentos de uma linguagem de programação orientada a objetos. Tratamento de Exceções. Implementação de software com uma linguagem de programação integrada com banco de dados&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Implementar um sistema dinâmico, utilizando banco de dados e com interação com usuário.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;avaliações&#34;&gt;Avaliações&lt;/h2&gt;
+&lt;p&gt;Cada trimestre terá três avaliações. As avaliações e respectivos pesos serão: (1) entrega de atividades - 20%, (2) Trabalho prático - 30% e (3) prova escrita (no &lt;a href=&#34;https://sig.ifc.edu.br/sigaa/verTelaLogin.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGAA&lt;/a&gt;) - 50%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Média trimestral&lt;/strong&gt; = entrega de atividades * 0,2 + Trabalho prático * 0,3 + prova escrita * 0,5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Média anual&lt;/strong&gt; = (média do primeiro trimestre + média do segundo trimestre + média do terceiro trimestre)/3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;A recuperação paralela ocorrerá por meio do desenvolvimento de um trabalho prático que envolverá todos os conteúdo do trimestre.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;critérios-de-avaliação&#34;&gt;Critérios de Avaliação&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Corretude&lt;/strong&gt; : se o código faz o que foi solicitado, sem conter erros de programação.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentação&lt;/strong&gt; : se existe uma documentação do código e como a solução foi criada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Boas práticas&lt;/strong&gt; : o código deve seguir as boas práticas apontadas em sala de aula, que deverão facilitar a leitura e entendimento dele.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apresentação&lt;/strong&gt; : o código deverá ser apresentado, explicado e mostrado em execução.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projetos com Arduino</title>
+      <link>http://riadnassiffe.github.io/pt/projeto/arduino/</link>
+      <pubDate>Fri, 19 Mar 2021 23:01:33 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/projeto/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Produção de protetores faciais para profissionais de saúde contra o coronavı́rus</title>
+      <link>http://riadnassiffe.github.io/pt/publication/monteiro-2020-produccao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/monteiro-2020-produccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title>
+      <link>http://riadnassiffe.github.io/pt/publication/laurindo-2018-optimized/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/laurindo-2018-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA</title>
+      <link>http://riadnassiffe.github.io/pt/publication/netto-2018-entrust/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/netto-2018-entrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2018-experiencias/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2018-experiencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2018-otimizaccao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2018-otimizaccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLOUD OF BOOKS</title>
+      <link>http://riadnassiffe.github.io/pt/publication/da-2017-cloud/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/da-2017-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
+      <link>http://riadnassiffe.github.io/pt/publication/laurindo-2017-smart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/laurindo-2017-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2016-optimising/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2016-optimising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
+      <link>http://riadnassiffe.github.io/pt/repositorio.ufsc.br/xmlui/handle/123456789/158798</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/repositorio.ufsc.br/xmlui/handle/123456789/158798</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&amp;amp;isAllowed=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download &lt;em&gt;(Brazilian Portuguese)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2014-model/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2014-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
+      <link>http://riadnassiffe.github.io/pt/publication/camponogara-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/camponogara-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in energy-aware real-time systems</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing quality of service in real-time systems under energy constraints</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2012-optimizing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2012-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-model/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-reconfiguraccao/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffe-2011-reconfiguraccao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos</title>
+      <link>http://riadnassiffe.github.io/pt/publication/nassiffedesenvolvimento/</link>
+      <pubDate>Wed, 19 Mar 2008 12:39:08 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/publication/nassiffedesenvolvimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://riadnassiffe.github.io/pt/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

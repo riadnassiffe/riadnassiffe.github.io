@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estrutura de Dados I | Ríad Mattos Nassiffe</title>
+    <link>http://riadnassiffe.github.io/pt/tag/estrutura-de-dados-i/</link>
+      <atom:link href="http://riadnassiffe.github.io/pt/tag/estrutura-de-dados-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estrutura de Dados I</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 01 Apr 2021 16:10:00 -0300</lastBuildDate>
+    <image>
+      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_2.png</url>
+      <title>Estrutura de Dados I</title>
+      <link>http://riadnassiffe.github.io/pt/tag/estrutura-de-dados-i/</link>
+    </image>
+    
+    <item>
+      <title>Estrutura de Dados I</title>
+      <link>http://riadnassiffe.github.io/pt/teachings/data_structure_i/</link>
+      <pubDate>Thu, 01 Apr 2021 16:10:00 -0300</pubDate>
+      <guid>http://riadnassiffe.github.io/pt/teachings/data_structure_i/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Horário:&lt;/strong&gt; Quarta-feira das 14:00 ás 17:00. &lt;a href=&#34;http://blumenau.ifc.edu.br/bcc/horario-de-aula/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendário com aulas marcadas.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instrutor:&lt;/strong&gt;	Ríad Mattos Nassiffe (&lt;a href=&#34;mailto:riad.nassiffe@ifc.edu.br&#34;&gt;riad.nassiffe@ifc.edu.br&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Horas de atendimento:&lt;/strong&gt;	a definir com a turma ou em horário marcado por e-mail.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ementa&#34;&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Algoritmos para pesquisa e ordenação em memória principal e secundária. Aplicações de listas. Árvores e suas generalizações: árvores binárias, árvores de busca, Aplicações de árvores. Tabelas de Hash.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;avaliações&#34;&gt;Avaliações&lt;/h2&gt;
+&lt;p&gt;A disciplina terá três avaliações, uma teórica e duas práticas. Todas as avaliações serão disponibilizadas no &lt;a href=&#34;https://sig.ifc.edu.br/sigaa/verTelaLogin.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGA&lt;/a&gt;. E a média final será calculada da seguinte forma:&lt;/p&gt;
+&lt;p&gt;Média final = (avaliação escrita + 2 trabalhos práticos)/3&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;critérios-de-avaliação&#34;&gt;Critérios de avaliação&lt;/h2&gt;
+&lt;p&gt;Nas respostas discursivas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clareza&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conteúdo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nas atividades práticas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Corretude&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentação&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estilo&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apresentação&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
