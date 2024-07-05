@@ -5,7 +5,7 @@
     <link>http://riadnassiffe.github.io/publication-type/2/</link>
       <atom:link href="http://riadnassiffe.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -17,14 +17,6 @@
       <link>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title>
-      <link>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid>
       <description></description>
     </item>
     
@@ -53,26 +45,10 @@
     </item>
     
     <item>
-      <title>CLOUD OF BOOKS</title>
-      <link>http://riadnassiffe.github.io/publication/da-2017-cloud/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/da-2017-cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</title>
       <link>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing QoS in energy-aware real-time systems</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid>
       <description></description>
     </item>
     

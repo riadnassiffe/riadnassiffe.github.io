@@ -5,7 +5,7 @@
     <link>http://riadnassiffe.github.io/publication-type/1/</link>
       <atom:link href="http://riadnassiffe.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
-      <link>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
       <link>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
-      <link>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid>
       <description></description>
     </item>
     
