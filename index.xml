@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ríad Mattos Nassiffe</title>
-    <link>http://riadnassiffe.github.io/</link>
-      <atom:link href="http://riadnassiffe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://riadnassiffe.github.io/</link>
+      <atom:link href="https://riadnassiffe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ríad Mattos Nassiffe</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Fri, 19 Mar 2021 23:01:33 -0300</lastBuildDate>
     <image>
-      <url>http://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
+      <url>https://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
       <title>Ríad Mattos Nassiffe</title>
-      <link>http://riadnassiffe.github.io/</link>
+      <link>https://riadnassiffe.github.io/</link>
     </image>
     
     <item>
       <title>Arduino</title>
-      <link>http://riadnassiffe.github.io/project/arduino/</link>
+      <link>https://riadnassiffe.github.io/project/arduino/</link>
       <pubDate>Fri, 19 Mar 2021 23:01:33 -0300</pubDate>
-      <guid>http://riadnassiffe.github.io/project/arduino/</guid>
+      <guid>https://riadnassiffe.github.io/project/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real Time System Energy-Aware Scheduling</title>
-      <link>http://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</link>
+      <link>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</link>
       <pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate>
-      <guid>http://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</guid>
+      <guid>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Raspberry Pi DVS</title>
-      <link>http://riadnassiffe.github.io/post/raspberry_pi_dvs/</link>
+      <link>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</link>
       <pubDate>Thu, 18 Mar 2021 14:15:59 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/post/raspberry_pi_dvs/</guid>
+      <guid>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</guid>
       <description>
 
 
@@ -57,7 +57,7 @@
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_47c7924e135322c86d30eb1b37897090.webp 400w,
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_e06a05f36c853af32330ab74749aee9e.webp 760w,
                /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://riadnassiffe.github.io/post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_47c7924e135322c86d30eb1b37897090.webp&#34;
+               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_47c7924e135322c86d30eb1b37897090.webp&#34;
                width=&#34;760&#34;
                height=&#34;238&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,7 +162,7 @@
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_d9f8bd49ba38ae9a79fbc10886690d4b.webp 400w,
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_118ef0fdd38fc107c67938fc06f576c5.webp 760w,
                /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://riadnassiffe.github.io/post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_d9f8bd49ba38ae9a79fbc10886690d4b.webp&#34;
+               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_d9f8bd49ba38ae9a79fbc10886690d4b.webp&#34;
                width=&#34;625&#34;
                height=&#34;519&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -197,7 +197,7 @@
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_5fe2bc960d0f4abc589a7baf95a74d5c.webp 400w,
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_694a665e4173f88d34871fc667a054e8.webp 760w,
                /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://riadnassiffe.github.io/post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_5fe2bc960d0f4abc589a7baf95a74d5c.webp&#34;
+               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_5fe2bc960d0f4abc589a7baf95a74d5c.webp&#34;
                width=&#34;625&#34;
                height=&#34;465&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -220,138 +220,138 @@
     
     <item>
       <title>Produção de protetores faciais para profissionais de saúde contra o coronavı́rus</title>
-      <link>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link>
+      <link>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid>
+      <guid>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title>
-      <link>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link>
+      <link>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid>
+      <guid>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA</title>
-      <link>http://riadnassiffe.github.io/publication/netto-2018-entrust/</link>
+      <link>https://riadnassiffe.github.io/publication/netto-2018-entrust/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/netto-2018-entrust/</guid>
+      <guid>https://riadnassiffe.github.io/publication/netto-2018-entrust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLOUD OF BOOKS</title>
-      <link>http://riadnassiffe.github.io/publication/da-2017-cloud/</link>
+      <link>https://riadnassiffe.github.io/publication/da-2017-cloud/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/da-2017-cloud/</guid>
+      <guid>https://riadnassiffe.github.io/publication/da-2017-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
-      <link>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</link>
+      <link>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid>
+      <guid>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&amp;amp;isAllowed=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download &lt;em&gt;(Brazilian Portuguese)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
-      <link>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link>
+      <link>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid>
+      <guid>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing QoS in energy-aware real-time systems</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing quality of service in real-time systems under energy constraints</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2011-model/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2011-model/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos</title>
-      <link>http://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</link>
+      <link>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</link>
       <pubDate>Wed, 19 Mar 2008 12:39:08 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</guid>
+      <guid>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://riadnassiffe.github.io/admin/</link>
+      <link>https://riadnassiffe.github.io/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://riadnassiffe.github.io/admin/</guid>
+      <guid>https://riadnassiffe.github.io/admin/</guid>
       <description></description>
     </item>
     
