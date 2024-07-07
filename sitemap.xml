@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://riadnassiffe.github.io/tag/arduino/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://riadnassiffe.github.io/category/arduino/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://riadnassiffe.github.io/project/arduino/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://riadnassiffe.github.io/categories/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://riadnassiffe.github.io/project/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
+    <loc>https://riadnassiffe.github.io/slides/phdproj/</loc>
+    <lastmod>2024-07-07T11:14:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://riadnassiffe.github.io/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
+    <lastmod>2024-07-07T11:14:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://riadnassiffe.github.io/tags/</loc>
-    <lastmod>2021-03-19T23:01:33-03:00</lastmod>
+    <loc>https://riadnassiffe.github.io/slides/</loc>
+    <lastmod>2024-07-07T11:14:46-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://riadnassiffe.github.io/project/</loc>
+    <lastmod>2024-07-07T11:05:38-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://riadnassiffe.github.io/project/teste/</loc>
+    <lastmod>2024-07-07T11:05:38-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://riadnassiffe.github.io/categories/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://riadnassiffe.github.io/tag/energy-aware-scheduling/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://riadnassiffe.github.io/category/energy-aware-scheduling/</loc>
@@ -38,11 +38,15 @@
     <lastmod>2021-03-19T20:10:16-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://riadnassiffe.github.io/tag/rts/</loc>
+    <lastmod>2021-03-19T20:10:16-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://riadnassiffe.github.io/category/rts/</loc>
     <lastmod>2021-03-19T20:10:16-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://riadnassiffe.github.io/tag/rts-energy-aware-scheduling/</loc>
+    <loc>https://riadnassiffe.github.io/tags/</loc>
     <lastmod>2021-03-19T20:10:16-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -112,6 +116,10 @@
   </url><url>
     <loc>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</loc>
     <lastmod>2021-03-19T09:39:09-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://riadnassiffe.github.io/tag/rts-energy-aware-scheduling/</loc>
+    <lastmod>2021-03-19T09:39:11-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://riadnassiffe.github.io/publication-type/7/</loc>

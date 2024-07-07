@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Ríad Mattos Nassiffe</title>
+    <link>https://riadnassiffe.github.io/slides/</link>
+      <atom:link href="https://riadnassiffe.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sun, 07 Jul 2024 11:14:46 -0300</lastBuildDate>
+    <item>
+      <title>PhdProj</title>
+      <link>https://riadnassiffe.github.io/slides/phdproj/</link>
+      <pubDate>Sun, 07 Jul 2024 11:14:46 -0300</pubDate>
+      <guid>https://riadnassiffe.github.io/slides/phdproj/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+&lt;p&gt;Author Name&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
