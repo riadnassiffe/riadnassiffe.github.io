@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Ríad Mattos Nassiffe</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
+      <title>Article-Journal</title>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau</title>
+      <link>http://localhost:1313/publication/nassiffe-2018-experiencias/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nassiffe-2018-experiencias/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

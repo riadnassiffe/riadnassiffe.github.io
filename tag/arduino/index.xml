@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Arduino | Ríad Mattos Nassiffe</title>
-    <link>http://localhost:1313/tag/arduino/</link>
-      <atom:link href="http://localhost:1313/tag/arduino/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arduino</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright>
-    <image>
-      <url>http://localhost:1313/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
-      <title>Arduino</title>
-      <link>http://localhost:1313/tag/arduino/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arduino | Ríad Mattos Nassiffe</title><link>http://localhost:1313/tag/arduino/</link><atom:link href="http://localhost:1313/tag/arduino/index.xml" rel="self" type="application/rss+xml"/><description>Arduino</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Fri, 19 Mar 2021 23:01:33 -0300</lastBuildDate><image><url>http://localhost:1313/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url><title>Arduino</title><link>http://localhost:1313/tag/arduino/</link></image><item><title>Arduino Robot</title><link>http://localhost:1313/project/arduino/</link><pubDate>Fri, 19 Mar 2021 23:01:33 -0300</pubDate><guid>http://localhost:1313/project/arduino/</guid><description/></item></channel></rss>

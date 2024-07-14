@@ -1,381 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ríad Mattos Nassiffe</title>
-    <link>https://riadnassiffe.github.io/</link>
-      <atom:link href="https://riadnassiffe.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ríad Mattos Nassiffe</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Sun, 07 Jul 2024 11:14:46 -0300</lastBuildDate>
-    <image>
-      <url>https://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
-      <title>Ríad Mattos Nassiffe</title>
-      <link>https://riadnassiffe.github.io/</link>
-    </image>
-    
-    <item>
-      <title>PhdProj</title>
-      <link>https://riadnassiffe.github.io/slides/phdproj/</link>
-      <pubDate>Sun, 07 Jul 2024 11:14:46 -0300</pubDate>
-      <guid>https://riadnassiffe.github.io/slides/phdproj/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
-&lt;p&gt;Author Name&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teste</title>
-      <link>https://riadnassiffe.github.io/project/teste/</link>
-      <pubDate>Sun, 07 Jul 2024 11:05:38 -0300</pubDate>
-      <guid>https://riadnassiffe.github.io/project/teste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real Time System Energy-Aware Scheduling</title>
-      <link>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</link>
-      <pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate>
-      <guid>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</guid>
-      <description>&lt;p&gt;This project thesis proposes a framework for dynamic reconfiguration, value-based pro-
-cessor resource allocation in multi-modal or not real-time applications, under sche-
-dulability, energy consumption and temperature constraints. The framework is
-suitable for critical and soft real-time adaptive embedded systems which need gua-
-rantees of energy savings. The dynamic allocation is formulated as a discrete and
-continuous (convex and piecewise linear) optimization problem for which efficients
-algorithms were tested. Although the discrete problem is NP-Hard, the others have
-efficient solution and numerical analysis and simulations have shown that the used
-algorithms and models achieves very good results, with low computational cost.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Testing Raspberry Pi DVS</title>
-      <link>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</link>
-      <pubDate>Thu, 18 Mar 2021 14:15:59 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-dvs_emulation_example3&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ARM implementation of continuous DVS, Author [1].&#34; srcset=&#34;
-               /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_47c7924e135322c86d30eb1b37897090.webp 400w,
-               /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_e06a05f36c853af32330ab74749aee9e.webp 760w,
-               /post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/dvs_emulation_example3_hu2eda602719dcb954981f3e4a05957f75_31364_47c7924e135322c86d30eb1b37897090.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;238&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      ARM implementation of continuous DVS, Author [1].
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;A common way to save energy with computers is exploring the CPU frequency switch capability. The Raspberry Pi uses an  ARM1176JZF-S processor and according to the ARM on-line documentation this CPU can be run in any frequency under the maximal one, supported by the processor. To be able to performance any frequency the ARM11 architecture emulate a continuous DVS(Dynamic Voltage Scaling), in a discrete processor,  by holding the voltage at the maximum level and then switch the system clock between the maximum frequency and off. In order to apply this the IEM software - it is a software that runs on ARM processor to classify the types of activity and to analyze their processor utilization patterns for global prediction about the future performance required by the system - defines frames that are directly related to the performance level. In Figure 1 the system performance requested in the first frame is 50%, so the CPU work at maximum frequency for half of the frame, and then it is turned off for the rest of the frame, in the second frame a performance of 25% of the CPU is requested, and then 75% in the last frame.&lt;/p&gt;
-&lt;h2 id=&#34;testing-continuous-dvs&#34;&gt;Testing Continuous DVS&lt;/h2&gt;
-&lt;p&gt;To test the Raspberry Pi DVS capability the two experiments were set, the first on consist in verify the effect of different frequencies over and application CPU execution time and the other is about the power consumption, all the tests were done using Arch Linux ARM. To change the frequency the command cpufreq-set was execute, here is an example about how to use this command:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cpufreq-set -f 0.2 GHz&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;in this case 0.200 is the desired frequency in GHz and -f tells the new frequency.&lt;/p&gt;
-&lt;h2 id=&#34;cpu-performance-according-frequency&#34;&gt;CPU Performance According Frequency&lt;/h2&gt;
-&lt;p&gt;In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends on only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;argc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;char&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;argv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[])&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;argc&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;nf&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;%d&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;argc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;nf&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;1 argument&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\n&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;n&#34;&gt;limit&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;atoi&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;argv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;timespec&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;stopCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;stopTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nf&#34;&gt;clock_gettime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLOCK_THREAD_CPUTIME_ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;amp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;startCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;nf&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;exp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;pow&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nf&#34;&gt;clock_gettime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLOCK_THREAD_CPUTIME_ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;amp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cpuUsedTime&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;((&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_sec&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_sec&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_nsec&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startCpuTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_nsec&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1000000000L&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;totalUsedTime&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;((&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_sec&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_sec&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_nsec&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startTotalTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tv_nsec&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1000000000L&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nf&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;CPU used time =%g and application total time=%g &lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\n&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cpuUsedTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;totalUsedTime&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-raspberrypifreqtest3&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shows amount of time spend by the CPU to execute the test program.&#34; srcset=&#34;
-               /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_d9f8bd49ba38ae9a79fbc10886690d4b.webp 400w,
-               /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_118ef0fdd38fc107c67938fc06f576c5.webp 760w,
-               /post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/raspberrypifreqtest3_huc9beccb709dd0a1a2e5f8706649aaf65_36745_d9f8bd49ba38ae9a79fbc10886690d4b.webp&#34;
-               width=&#34;625&#34;
-               height=&#34;519&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Shows amount of time spend by the CPU to execute the test program.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.&lt;/p&gt;
-&lt;h2 id=&#34;power-consumption-according-to-frequency-and-voltage-scaling&#34;&gt;Power Consumption According to Frequency and Voltage Scaling&lt;/h2&gt;
-&lt;p&gt;In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-featured&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shows the Raspberry Pi Power consumption according the selected frequency.&#34; srcset=&#34;
-               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_5fe2bc960d0f4abc589a7baf95a74d5c.webp 400w,
-               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_694a665e4173f88d34871fc667a054e8.webp 760w,
-               /post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://riadnassiffe.github.io/post/raspberry_pi_dvs/featured_hu3e419a09cabc5f927a443babdc4ccc08_31283_5fe2bc960d0f4abc589a7baf95a74d5c.webp&#34;
-               width=&#34;625&#34;
-               height=&#34;465&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Shows the Raspberry Pi Power consumption according the selected frequency.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;It is important to notice in between frequencies 0.2GHz-0.6GHz, 0.6GHz-0.8GHz and 0.8GHz-1GHz the power line changes its increasing rate from the previous interval, with the exception of the interval from 0.4GHz to 0.6GHz. This exception is caused because the ARM DVS doesn&amp;rsquo;t need to change the voltage to simulate 0.4GHz and 0.6GHz, and when only the frequency changes the power consumption reduction is proportional to the increase of time need to execute the program.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;As a conclusion of the first experiment it is possible to confirm that the continuous DVS implies in different execution time according to the used frequency. And according to the second experiment it is clear that the power changes according to the frequency, but the frequency modification only result in power save if the voltage changes too.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;ARM - ARM1176JZF Development Chip Technical Reference&lt;/li&gt;
-&lt;li&gt;RaspBerry Pi - RPiconfig&lt;/li&gt;
-&lt;li&gt;clock_gettime - Man7.org&lt;/li&gt;
-&lt;li&gt;Test program code - Github&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Produção de protetores faciais para profissionais de saúde contra o coronavı́rus</title>
-      <link>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title>
-      <link>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA</title>
-      <link>https://riadnassiffe.github.io/publication/netto-2018-entrust/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/netto-2018-entrust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2018-experiencias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CLOUD OF BOOKS</title>
-      <link>https://riadnassiffe.github.io/publication/da-2017-cloud/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/da-2017-cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title>
-      <link>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimising QoS in adaptive real-time systems with energy constraint varying  CPU frequency</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&amp;amp;isAllowed=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download &lt;em&gt;(Brazilian Portuguese)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A model considering QoS for real-time systems with energy and temperature constraints</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
-      <link>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing QoS in energy-aware real-time systems</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing quality of service in real-time systems under energy constraints</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos</title>
-      <link>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</link>
-      <pubDate>Wed, 19 Mar 2008 12:39:08 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://riadnassiffe.github.io/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://riadnassiffe.github.io/admin/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ríad M. Nassiffe | Ríad Mattos Nassiffe</title><link>https://riadnassiffe.github.io/</link><atom:link href="https://riadnassiffe.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ríad M. Nassiffe</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://riadnassiffe.github.io/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url><title>Ríad M. Nassiffe</title><link>https://riadnassiffe.github.io/</link></image><item><title>Problem of Choosing Collaborators in a Network Sensors</title><link>https://riadnassiffe.github.io/project/nodeselection/</link><pubDate>Sun, 07 Jul 2024 12:37:37 -0300</pubDate><guid>https://riadnassiffe.github.io/project/nodeselection/</guid><description>&lt;p>In order to improve the communication of Wireless Sensor Networks (WSNs), in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem. This was my postdoc project.&lt;/p></description></item><item><title>PhdProj</title><link>https://riadnassiffe.github.io/slides/phdproj/</link><pubDate>Sun, 07 Jul 2024 11:14:46 -0300</pubDate><guid>https://riadnassiffe.github.io/slides/phdproj/</guid><description>&lt;h1 id="title">Title&lt;/h1>
+&lt;p>Author Name&lt;/p>
+&lt;hr>
+&lt;h2 id="slide-2">Slide 2&lt;/h2>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Projects</title><link>https://riadnassiffe.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/projects/</guid><description/></item><item><title>Salesforce Plataform</title><link>https://riadnassiffe.github.io/post/salesforceplataform/</link><pubDate>Thu, 07 Dec 2023 19:01:30 -0300</pubDate><guid>https://riadnassiffe.github.io/post/salesforceplataform/</guid><description>&lt;p>Salesforce is a web CRM platform, focus on bring all company data in one place with Customer 360&lt;/p></description></item><item><title>Apex</title><link>https://riadnassiffe.github.io/post/apex/</link><pubDate>Thu, 07 Dec 2023 19:01:12 -0300</pubDate><guid>https://riadnassiffe.github.io/post/apex/</guid><description/></item><item><title>Experience</title><link>https://riadnassiffe.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/experience/</guid><description/></item><item><title>Real Time System Energy-Aware Scheduling</title><link>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</link><pubDate>Fri, 19 Mar 2021 20:10:16 -0300</pubDate><guid>https://riadnassiffe.github.io/project/rts_energy-aware_scheduling/</guid><description>&lt;p>This project was developed during my Master and PhD studies. It is a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem, for which efficient algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost.&lt;/p></description></item><item><title>Produção de protetores faciais para profissionais de saúde contra o coronavı́rus</title><link>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/monteiro-2020-produccao/</guid><description/></item><item><title>An optimized relay selection technique to improve the communication reliability in wireless sensor networks</title><link>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/laurindo-2018-optimized/</guid><description/></item><item><title>ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA</title><link>https://riadnassiffe.github.io/publication/netto-2018-entrust/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/netto-2018-entrust/</guid><description/></item><item><title>OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO</title><link>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2018-otimizaccao/</guid><description/></item><item><title>CLOUD OF BOOKS</title><link>https://riadnassiffe.github.io/publication/da-2017-cloud/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/da-2017-cloud/</guid><description/></item><item><title>Smart: Adequate selection of relay nodes to support cooperative communication in WSNs</title><link>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/laurindo-2017-smart/</guid><description/></item><item><title>Optimising QoS in adaptive real-time systems with energy constraint varying CPU frequency</title><link>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2016-optimising/</guid><description/></item><item><title>Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura</title><link>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2015-abordagens/</guid><description>&lt;p>&lt;a href="https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&amp;amp;isAllowed=y">Download &lt;em>(Brazilian Portuguese)&lt;/em>&lt;/a>&lt;/p></description></item><item><title>A model considering QoS for real-time systems with energy and temperature constraints</title><link>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2014-model/</guid><description/></item><item><title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title><link>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/camponogara-2013-optimizing/</guid><description/></item><item><title>Optimizing QoS in energy-aware real-time systems</title><link>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2013-optimizing/</guid><description/></item><item><title>Optimizing quality of service in real-time systems under energy constraints</title><link>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2012-optimizing/</guid><description/></item><item><title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title><link>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2011-model/</guid><description/></item><item><title>Reconfiguração dinâmica em sistemas de tempo real com restrições de consumo de energia</title><link>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffe-2011-reconfiguraccao/</guid><description/></item><item><title>Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos</title><link>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</link><pubDate>Wed, 19 Mar 2008 12:39:08 +0000</pubDate><guid>https://riadnassiffe.github.io/publication/nassiffedesenvolvimento/</guid><description/></item><item><title/><link>https://riadnassiffe.github.io/admin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/admin/</guid><description/></item><item><title>Testing Raspberry Pi DVS</title><link>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riadnassiffe.github.io/post/raspberry_pi_dvs/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A common way to save energy with computers is exploring the CPU frequency switch capability. The Raspberry Pi uses an ARM1176JZF-S processor and according to the ARM on-line documentation this CPU can be run in any frequency under the maximal one, supported by the processor. To be able to performance any frequency the ARM11 architecture emulate a continuous DVS(Dynamic Voltage Scaling), in a discrete processor. It is accomplished by holding the voltage at the maximum level and then switch the system clock between the maximum frequency and off. In order to apply this the Intelligent Energy Management (IEM) — it is a technology that runs on ARM processor to classify the types of activity and to analyze their processor utilization patterns for global prediction about the future performance required by the system defines frames that are directly related to the performance level. In Figure 1 the system performance requested in the first frame is 50%, so the CPU work at maximum frequency for half of the frame, and then it is turned off for the rest of the frame. In the second frame a performance of 25% of the CPU, and then 75% in the last frame.&lt;/p>
+&lt;p>&lt;img src="dvs_emulation_example3.png" alt="ARM implementation of continuous DVS, Author [Figure 1]" title="ARM implementation of continuous DVS, Author [Figure 1]">&lt;/p>
+&lt;h2 id="testing-continuous-dvs">Testing Continuous DVS&lt;/h2>
+&lt;p>To test the Raspberry Pi DVS capability the two experiments were set, the first on consist in verify the effect of different frequencies over and application CPU execution time and the other is about the power consumption, all the tests were done using Arch Linux ARM. To change the frequency the command cpufreq-set was execute, here is an example about how to use this command:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">cpufreq-set -f 0.2 GHz&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>in this case 0.200 is the desired frequency in GHz and -f tells the new frequency.&lt;/p>
+&lt;h2 id="cpu-performance-according-selected-frequency">CPU Performance According Selected Frequency&lt;/h2>
+&lt;p>In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends on only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">argc&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="kt">char&lt;/span> &lt;span class="err">\&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">[])&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="n">limit&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">argc&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;%d&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">argc&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;1 argument&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s">&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">return&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;span class="k">else&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">limit&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">atoi&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="n">i&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">struct&lt;/span> &lt;span class="n">timespec&lt;/span> &lt;span class="n">startCpuTime&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">stopCpuTime&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">startTotalTime&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">stopTotalTime&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">clock_gettime&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">CLOCK_THREAD_CPUTIME_ID&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">amp&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="n">startCpuTime&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">for&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="n">i&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nf">exp&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nf">pow&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">clock_gettime&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">CLOCK_THREAD_CPUTIME_ID&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">amp&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="n">stopCpuTime&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">double&lt;/span> &lt;span class="n">cpuUsedTime&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">((&lt;/span>&lt;span class="kt">double&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">stopCpuTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_sec&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">-&lt;/span> &lt;span class="n">startCpuTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_sec&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">-&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">stopCpuTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_nsec&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="n">startCpuTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_nsec&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">/&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="kt">double&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="mi">1000000000L&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">double&lt;/span> &lt;span class="n">totalUsedTime&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">((&lt;/span>&lt;span class="kt">double&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">stopTotalTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_sec&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">-&lt;/span> &lt;span class="n">startTotalTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_sec&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">-&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">stopTotalTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_nsec&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="n">startTotalTime&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">tv_nsec&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">/&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="kt">double&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="mi">1000000000L&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;CPU used time =%g and application total time=%g &lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s">&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">cpuUsedTime&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">totalUsedTime&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;p>The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code, and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz the CPU execution time was measured and plotted in Figure 2.&lt;/p>
+&lt;p>&lt;img src="raspberrypifreqtest3.png" alt="Shows amount of time spend by the CPU to execute the test program[Figure 2]." title="Shows amount of time spend by the CPU to execute the test program.[Figure 2]">&lt;/p>
+&lt;h2 id="power-consumption-according-to-frequency-and-voltage-scaling">Power Consumption According to Frequency and Voltage Scaling&lt;/h2>
+&lt;p>In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $.&lt;/p>
+&lt;p>&lt;img src="featured.png" alt="Shows the Raspberry Pi Power consumption according the selected frequency.[Figure 3]" title="Shows the Raspberry Pi Power consumption according the selected frequency.[Figure 3]">&lt;/p>
+&lt;p>It is important to notice in between frequencies 0.2GHz-0.6GHz, 0.6GHz-0.8GHz and 0.8GHz-1GHz the power line changes its increasing rate from the previous interval, with the exception of the interval from 0.4GHz to 0.6GHz. This exception is caused because the ARM DVS doesn&amp;rsquo;t need to change the voltage to simulate 0.4GHz and 0.6GHz, and when only the frequency changes the power consumption reduction is proportional to the increase of time need to execute the program.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>As a conclusion of the first experiment it is possible to confirm that the continuous DVS implies in different execution time according to the used frequency. And according to the second experiment it is clear that the power changes according to the frequency, but the frequency modification only result in power save if the voltage changes too.&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>ARM - ARM1176JZF Development Chip Technical Reference&lt;/li>
+&lt;li>RaspBerry Pi - RPiconfig&lt;/li>
+&lt;li>clock_gettime - &lt;a href="https://man7.org">Man7Org&lt;/a>&lt;/li>
+&lt;li>Test program code - &lt;a href="https://github.com/riadnassiffe/RaspberryPiFreqTest">GitHub&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>

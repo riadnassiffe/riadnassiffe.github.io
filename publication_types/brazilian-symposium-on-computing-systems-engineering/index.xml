@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brazilian Symposium on Computing Systems Engineering | Ríad Mattos Nassiffe</title>
+    <link>http://localhost:1313/publication_types/brazilian-symposium-on-computing-systems-engineering/</link>
+      <atom:link href="http://localhost:1313/publication_types/brazilian-symposium-on-computing-systems-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brazilian Symposium on Computing Systems Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_lanczos_center_3.png</url>
+      <title>Brazilian Symposium on Computing Systems Engineering</title>
+      <link>http://localhost:1313/publication_types/brazilian-symposium-on-computing-systems-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
+      <link>http://localhost:1313/publication/camponogara-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/camponogara-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
