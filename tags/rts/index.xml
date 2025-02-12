@@ -22,6 +22,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
       <link>http://localhost:1313/publication/camponogara-2013-optimizing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -38,6 +39,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> d78cc54 (fix)
       <title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints</title>
       <link>http://localhost:1313/publication/nassiffe-2011-model/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>

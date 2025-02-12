@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salesforce | Ríad Mattos Nassiffe</title>
+    <link>http://localhost:1313/categories/salesforce/</link>
+      <atom:link href="http://localhost:1313/categories/salesforce/index.xml" rel="self" type="application/rss+xml" />
+    <description>Salesforce</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Ríad Mattos Nassiffe</copyright><lastBuildDate>Thu, 07 Dec 2023 19:01:30 -0300</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4ce9bfcc5429425bce506e4187c731af_7447_512x512_fill_box_center_3.png</url>
+      <title>Salesforce</title>
+      <link>http://localhost:1313/categories/salesforce/</link>
+    </image>
+    
+    <item>
+      <title>Salesforce Plataform</title>
+      <link>http://localhost:1313/post/salesforceplataform/</link>
+      <pubDate>Thu, 07 Dec 2023 19:01:30 -0300</pubDate>
+      <guid>http://localhost:1313/post/salesforceplataform/</guid>
+      <description>&lt;p&gt;Salesforce is a web CRM platform, focus on bring all company data in one place with Customer 360&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apex</title>
+      <link>http://localhost:1313/post/apex/</link>
+      <pubDate>Thu, 07 Dec 2023 19:01:12 -0300</pubDate>
+      <guid>http://localhost:1313/post/apex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce</title>
+      <link>http://localhost:1313/project/salesforce/</link>
+      <pubDate>Fri, 19 Mar 2021 23:01:33 -0300</pubDate>
+      <guid>http://localhost:1313/project/salesforce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
