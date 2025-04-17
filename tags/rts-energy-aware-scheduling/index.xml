@@ -38,6 +38,25 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency</title>
+      <link>http://localhost:1313/publication/camponogara-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/camponogara-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing QoS in energy-aware real-time systems</title>
+      <link>http://localhost:1313/publication/nassiffe-2013-optimizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nassiffe-2013-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> d78cc54 (fix)
       <title>Optimizing quality of service in real-time systems under energy constraints</title>
       <link>http://localhost:1313/publication/nassiffe-2012-optimizing/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
