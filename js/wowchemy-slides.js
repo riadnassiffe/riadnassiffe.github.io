@@ -1,5 +1,5 @@
 (() => {
-  // ns-params:@params
+  // ns-hugo-params:<stdin>
   var slides = { diagram: true, diagram_options: { theme: "base" }, highlight_style: "dracula", reveal_options: { background_transition: "slide", center: true, controls: true, loop: false, menu_enabled: true, mouse_wheel: true, progress: true, rtl: false, slide_number: "c/t", touch: true, transition: "fade", transitionspeed: "default" }, theme: "black" };
 
   // <stdin>
