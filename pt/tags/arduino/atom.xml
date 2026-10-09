@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://riadnassiffe.dev/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https://riadnassiffe.dev/</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>
+            This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader
+        </tabi:about_feeds>
+        <tabi:visit_the_site>
+            Visit website
+        </tabi:visit_the_site>
+        <tabi:recent_posts>
+            Recent posts
+        </tabi:recent_posts>
+        <tabi:last_updated_on>
+            Updated on $DATE
+        </tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Arduino</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://riadnassiffe.dev/skins/blue.css?h=a4dc1e94d3f5759784d2" /><title>Ríad Nassiffe - Arduino</title>
+        <subtitle>Saudações! Meu nome é Ríad Mattos Nassiffe, e atualmente sou professor no [IFC-campus Blumenau](https://blumenau.ifc.edu.br/). Leciono ciência da computação nos cursos técnicos de informática e no bacharelado em Ciência da Computação. Minhas disciplinas abrangem programação, sistemas operacionais, estruturas de dados, sistemas embarcados e arquitetura e organização de computadores.</subtitle>
+    <link href="https://riadnassiffe.dev/pt/tags/arduino/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://riadnassiffe.dev/pt/tags/arduino/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><id>https://riadnassiffe.dev/pt/tags/arduino/atom.xml</id>
+</feed>
