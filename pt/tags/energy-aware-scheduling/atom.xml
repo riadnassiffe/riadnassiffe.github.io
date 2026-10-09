@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="https://riadnassiffe.dev/feed_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://riadnassiffe.github.io/feed_style.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
     <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
-        <tabi:base_url>https://riadnassiffe.dev/</tabi:base_url>
+        <tabi:base_url>https://riadnassiffe.github.io/</tabi:base_url>
         <tabi:separator>
             •
         </tabi:separator>
@@ -21,19 +21,19 @@
         <tabi:default_theme></tabi:default_theme>
         <tabi:post_listing_date>date</tabi:post_listing_date>
         <tabi:current_section>Energy-aware Scheduling</tabi:current_section>
-    </tabi:metadata><link rel="extra-stylesheet" href="https://riadnassiffe.dev/skins/blue.css?h=a4dc1e94d3f5759784d2" /><title>Ríad Nassiffe - Energy-aware Scheduling</title>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://riadnassiffe.github.io/skins/blue.css?h=a4dc1e94d3f5759784d2" /><title>Ríad Nassiffe - Energy-aware Scheduling</title>
         <subtitle>Saudações! Meu nome é Ríad Mattos Nassiffe, e atualmente sou professor no [IFC-campus Blumenau](https://blumenau.ifc.edu.br/). Leciono ciência da computação nos cursos técnicos de informática e no bacharelado em Ciência da Computação. Minhas disciplinas abrangem programação, sistemas operacionais, estruturas de dados, sistemas embarcados e arquitetura e organização de computadores.</subtitle>
-    <link href="https://riadnassiffe.dev/pt/tags/energy-aware-scheduling/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://riadnassiffe.dev/pt/tags/energy-aware-scheduling/" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-07-14T14:53:59+00:00</updated><id>https://riadnassiffe.dev/pt/tags/energy-aware-scheduling/atom.xml</id><entry xml:lang="pt">
+    <link href="https://riadnassiffe.github.io/pt/tags/energy-aware-scheduling/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://riadnassiffe.github.io/pt/tags/energy-aware-scheduling/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-07-14T14:53:59+00:00</updated><id>https://riadnassiffe.github.io/pt/tags/energy-aware-scheduling/atom.xml</id><entry xml:lang="pt">
         <title>Testing Raspberry Pi DVS</title>
         <published>2021-03-18T14:15:59+00:00</published>
         <updated>2024-07-14T14:53:59+00:00</updated>
         <author>
             <name>Ríad M. Nassiffe</name>
         </author>
-        <link rel="alternate" href="https://riadnassiffe.dev/pt/blog/raspberypidvs/" type="text/html"/>
-        <id>https://riadnassiffe.dev/pt/blog/raspberypidvs/</id>
+        <link rel="alternate" href="https://riadnassiffe.github.io/pt/blog/raspberypidvs/" type="text/html"/>
+        <id>https://riadnassiffe.github.io/pt/blog/raspberypidvs/</id>
         <summary type="html">Using processor DVS to save energy.</summary>
         </entry>
 </feed>

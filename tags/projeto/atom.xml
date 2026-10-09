@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="https://riadnassiffe.dev/feed_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://riadnassiffe.github.io/feed_style.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
-        <tabi:base_url>https://riadnassiffe.dev/</tabi:base_url>
+        <tabi:base_url>https://riadnassiffe.github.io/</tabi:base_url>
         <tabi:separator>
             •
         </tabi:separator>
@@ -21,9 +21,9 @@
         <tabi:default_theme></tabi:default_theme>
         <tabi:post_listing_date>date</tabi:post_listing_date>
         <tabi:current_section>Projeto</tabi:current_section>
-    </tabi:metadata><link rel="extra-stylesheet" href="https://riadnassiffe.dev/skins/blue.css?h=a4dc1e94d3f5759784d2" /><title>Ríad M. Nassiffe - Projeto</title>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://riadnassiffe.github.io/skins/blue.css?h=a4dc1e94d3f5759784d2" /><title>Ríad M. Nassiffe - Projeto</title>
         <subtitle>Greetings! My name is Ríad Mattos Nassiffe, and I am currently a professor at [IFC-campus Blumenau](https://blumenau.ifc.edu.br/). I teach computer science in the technical computing and bachelor’s degree programs in Computer Science. My courses cover programming, operating systems, data structures, embedded systems, and computer architecture and organization.</subtitle>
-    <link href="https://riadnassiffe.dev/tags/projeto/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://riadnassiffe.dev/tags/projeto/" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><id>https://riadnassiffe.dev/tags/projeto/atom.xml</id>
+    <link href="https://riadnassiffe.github.io/tags/projeto/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://riadnassiffe.github.io/tags/projeto/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><id>https://riadnassiffe.github.io/tags/projeto/atom.xml</id>
 </feed>
