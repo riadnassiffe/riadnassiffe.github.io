@@ -1,138 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="https://riadnassiffe.github.io/sitemap_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://riadnassiffe.dev/sitemap_style.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://riadnassiffe.github.io/</loc>
+        <loc>https://riadnassiffe.dev/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/blog/</loc>
+        <loc>https://riadnassiffe.dev/blog/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/blog/page/1/</loc>
+        <loc>https://riadnassiffe.dev/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/blog/raspberypidvs/</loc>
+        <loc>https://riadnassiffe.dev/blog/raspberypidvs/</loc>
         <lastmod>2024-07-14T14:53:59Z</lastmod>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/projects/</loc>
+        <loc>https://riadnassiffe.dev/projects/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/projects/robo-bifuncional/</loc>
+        <loc>https://riadnassiffe.dev/projects/robo-bifuncional/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/</loc>
+        <loc>https://riadnassiffe.dev/pt/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/blog/</loc>
+        <loc>https://riadnassiffe.dev/pt/blog/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/blog/page/1/</loc>
+        <loc>https://riadnassiffe.dev/pt/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/blog/raspberypidvs/</loc>
+        <loc>https://riadnassiffe.dev/pt/blog/raspberypidvs/</loc>
         <lastmod>2024-07-14T14:53:59Z</lastmod>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/projects/</loc>
+        <loc>https://riadnassiffe.dev/pt/projects/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/projects/robo-bifuncional/</loc>
+        <loc>https://riadnassiffe.dev/pt/projects/robo-bifuncional/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/publications/</loc>
+        <loc>https://riadnassiffe.dev/pt/publications/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/arduino/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/arduino/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/disciplina/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/disciplina/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/energy-aware-scheduling/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/energy-aware-scheduling/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/ensino-medio/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/ensino-medio/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/github-ensino/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/github-ensino/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/ifc/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/ifc/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/projeto/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/projeto/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/python/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/python/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/robotica/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/robotica/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/tags/rts/</loc>
+        <loc>https://riadnassiffe.dev/pt/tags/rts/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/teaching/</loc>
+        <loc>https://riadnassiffe.dev/pt/teaching/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/teaching/desenvolvimentoprojetosi/</loc>
+        <loc>https://riadnassiffe.dev/pt/teaching/desenvolvimentoprojetosi/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/teaching/pesquisaoperacional/</loc>
+        <loc>https://riadnassiffe.dev/pt/teaching/pesquisaoperacional/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/pt/teaching/programacaoii/</loc>
+        <loc>https://riadnassiffe.dev/pt/teaching/programacaoii/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/publications/</loc>
+        <loc>https://riadnassiffe.dev/publications/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/</loc>
+        <loc>https://riadnassiffe.dev/tags/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/arduino/</loc>
+        <loc>https://riadnassiffe.dev/tags/arduino/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/disciplina/</loc>
+        <loc>https://riadnassiffe.dev/tags/disciplina/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/energy-aware-scheduling/</loc>
+        <loc>https://riadnassiffe.dev/tags/energy-aware-scheduling/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/ensino-medio/</loc>
+        <loc>https://riadnassiffe.dev/tags/ensino-medio/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/github-ensino/</loc>
+        <loc>https://riadnassiffe.dev/tags/github-ensino/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/ifc/</loc>
+        <loc>https://riadnassiffe.dev/tags/ifc/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/projeto/</loc>
+        <loc>https://riadnassiffe.dev/tags/projeto/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/python/</loc>
+        <loc>https://riadnassiffe.dev/tags/python/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/robotic/</loc>
+        <loc>https://riadnassiffe.dev/tags/robotic/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/tags/rts/</loc>
+        <loc>https://riadnassiffe.dev/tags/rts/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/teaching/</loc>
+        <loc>https://riadnassiffe.dev/teaching/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/teaching/desenvolvimentoprojetosi/</loc>
+        <loc>https://riadnassiffe.dev/teaching/desenvolvimentoprojetosi/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/teaching/pesquisaoperacional/</loc>
+        <loc>https://riadnassiffe.dev/teaching/pesquisaoperacional/</loc>
     </url>
     <url>
-        <loc>https://riadnassiffe.github.io/teaching/programacaoii/</loc>
+        <loc>https://riadnassiffe.dev/teaching/programacaoii/</loc>
     </url>
 </urlset>
