@@ -8,6 +8,10 @@
         <loc>https://riadnassiffe.dev/blog/</loc>
     </url>
     <url>
+        <loc>https://riadnassiffe.dev/blog/cplusplusinicialiazevariables/</loc>
+        <lastmod>2026-11-06T11:15:59Z</lastmod>
+    </url>
+    <url>
         <loc>https://riadnassiffe.dev/blog/page/1/</loc>
     </url>
     <url>
@@ -25,6 +29,10 @@
     </url>
     <url>
         <loc>https://riadnassiffe.dev/pt/blog/</loc>
+    </url>
+    <url>
+        <loc>https://riadnassiffe.dev/pt/blog/cplusplusinicialiazevariables/</loc>
+        <lastmod>2026-11-06T11:15:59Z</lastmod>
     </url>
     <url>
         <loc>https://riadnassiffe.dev/pt/blog/page/1/</loc>
@@ -47,6 +55,9 @@
     </url>
     <url>
         <loc>https://riadnassiffe.dev/pt/tags/arduino/</loc>
+    </url>
+    <url>
+        <loc>https://riadnassiffe.dev/pt/tags/c/</loc>
     </url>
     <url>
         <loc>https://riadnassiffe.dev/pt/tags/disciplina/</loc>
@@ -76,6 +87,9 @@
         <loc>https://riadnassiffe.dev/pt/tags/rts/</loc>
     </url>
     <url>
+        <loc>https://riadnassiffe.dev/pt/tags/variavel/</loc>
+    </url>
+    <url>
         <loc>https://riadnassiffe.dev/pt/teaching/</loc>
     </url>
     <url>
@@ -95,6 +109,9 @@
     </url>
     <url>
         <loc>https://riadnassiffe.dev/tags/arduino/</loc>
+    </url>
+    <url>
+        <loc>https://riadnassiffe.dev/tags/c/</loc>
     </url>
     <url>
         <loc>https://riadnassiffe.dev/tags/disciplina/</loc>
@@ -122,6 +139,9 @@
     </url>
     <url>
         <loc>https://riadnassiffe.dev/tags/rts/</loc>
+    </url>
+    <url>
+        <loc>https://riadnassiffe.dev/tags/variables/</loc>
     </url>
     <url>
         <loc>https://riadnassiffe.dev/teaching/</loc>
